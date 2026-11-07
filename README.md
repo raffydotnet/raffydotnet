@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/JavaScript-17253c?style=flat-square" alt="JavaScript">
 </p>
 
-<p align="center">🔎 <b>Open to junior .NET and WPF developer roles</b></p>
+<!-- <p align="center">🔎 <b>Open to junior .NET and WPF developer roles</b></p> -->
 
 ---
 
