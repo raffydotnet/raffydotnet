@@ -1,4 +1,4 @@
-<!-- <img src="assets/banner.svg" alt="Raffy, software developer. Building systems that work." width="100%"> -->
+<img src="assets/banner.svg" alt="Raffy, software developer. Building systems that work." width="100%"> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23%20%2F%20.NET-17253c?style=flat-square" alt="C# / .NET">
