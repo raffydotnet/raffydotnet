@@ -8,7 +8,7 @@ the kind where, if it works, nobody notices. which is the goal. it's a weird goa
 
 web apps. desktop apps. the stuff in between. mostly c# and .net, some php.
 
-<a href="mailto:macaindig.ma@gmail.com">say hi</a></p>
+ [say hi](www.linkedin.com/in/mcainalraffy)
 
 ### things i made, i guess
 
@@ -40,7 +40,7 @@ c#, .net, wpf, xaml, vb.net, asp.net core, php, javascript, html, css, sql serve
 
 ### the longer version
 
-there's more on [my website](https://raffy-off-port.vercel.app/). the stuff i left out here is mostly in there.
+there's more on [portfolio](https://raffy-off-port.vercel.app/). the stuff i left out here is mostly in there.
 
 ### that's it
 
