@@ -1,4 +1,4 @@
-# raffy.
+ me# raffy.
 
 hi. i live in cagayan de oro, in the philippines.
 
@@ -44,7 +44,7 @@ there's more on [my website](https://raffy-off-port.vercel.app/). the stuff i le
 
 ### that's it
 
-[your.email@example.com](mailto:macaindig.ma@gmail.com)
+[email me](mailto:macaindig.ma@gmail.com)
 
 <details>
 <summary>one more thing</summary>
