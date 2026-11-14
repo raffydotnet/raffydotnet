@@ -1,57 +1,56 @@
-# Raffy (software developer)
+# raffy.
 
-*From the free encyclopedia*
+hi. i live in cagayan de oro, in the philippines.
 
-<table align="right" width="300">
-  <tr><th colspan="2" align="center">Moh'd Al-raffy Macaindig</th></tr>
-  <tr><th align="left">Occupation</th><td>Software developer</td></tr>
-  <tr><th align="left">Location</th><td>Cagayan de Oro, Philippines</td></tr>
-  <tr><th align="left">Years active</th><td>2023–present</td></tr>
-  <tr><th align="left">Known for</th><td>Internal business systems</td></tr>
-  <tr><th align="left">Main languages</th><td>C#, PHP, JavaScript</td></tr>
-  <tr><th align="left">Frameworks</th><td>.NET, WPF, ASP.NET Core</td></tr>
-  <tr><th align="left">Seeking</th><td>Junior .NET / WPF role</td></tr>
-  <tr><th align="left">Contact</th><td><a href="mailto:macaindig.ma@gmail.com">Macaindig.ma@gmail.com</a></td></tr>
-</table>
+## i make software for offices.
 
-**Raffy** is a software developer based in Cagayan de Oro, Philippines, who builds web and desktop software for business operations. Raffy is known for internal systems that handle attendance, monitoring and reporting.<sup>[citation needed]</sup>
+the kind where, if it works, nobody notices. which is the goal. it's a weird goal.
 
-Raffy began in PHP web development and now works mostly in the .NET ecosystem.
+web apps. desktop apps. the stuff in between. mostly c# and .net, some php.
 
-**Contents**
+<a href="mailto:macaindig.ma@gmail.com">say hi</a></p>
 
-1. [Career](#career)
-2. [Notable projects](#notable-projects)
-3. [Technical skills](#technical-skills)
-4. [External links](#external-links)
+### things i made, i guess
 
-## Career
+- a timesheet website. it works out who worked overnight. overnight is hard, because the date changes in the middle.
+- a desktop program that reads attendance from biometric devices and turns it into something a person can use.
+- a page that says whether outlook, teams, the email servers and our own servers are up or down. up or down. that's the whole page.
+- a tracker that notices which websites get visited, and a dashboard to look at them. i'm not going to say which sites.
+- a chat and announcements site, for one company, private.
+- an app where everyone's screen updates at the same time. spooky.
+- a program that fills in the excel reports so people don't have to. excel did not ask for this.
+- a front door. one address, and it sends you to the right internal website. like a receptionist, but a program.
+- the first big one: a school website where students ask for documents, like transcripts. it made things about 40% faster, reportedly. i put the word "reportedly" there on purpose.
 
-From January 2025 to the present, Raffy has worked as an IT programmer and software developer at Accolade Resources, Inc. in Cagayan de Oro, building internal software for employee management, attendance, monitoring, reporting and workflow automation, using C#, WPF, .NET, ASP.NET Core and SQL Server.
+<sub>a lot of these are internal company systems, so i'm keeping the details vague.</sub>
 
-From December 2023 to October 2024, Raffy was a web developer at PHINMA – Cagayan de Oro College, where Raffy built a full-stack document requisition system in PHP, HTML, CSS and JavaScript, from requirements gathering through testing and deployment.
+### the history of me, i guess
 
-## Notable projects
+december 2023. i start making a website for a school. phinma cagayan de oro college. php.
 
-Many of these are internal company systems, so details are generalized.
+october 2024. i finish. it works.
 
-- **Online document requisition system**: students request registrar documents online, with status tracking and messaging. Processing efficiency improved by about 40%.[^1] *(PHP, JavaScript)*
-- **Employee timesheet platform**: attendance, biometric data imports and access controls. *(ASP.NET Core, SQL Server)*
-- **Attendance management system**: a desktop app that imports attendance from biometric devices. *(C#, WPF)*
-- **Employee activity monitoring**: a desktop tracker that checks sites against a whitelist, plus an admin dashboard. *(C#, WPF, ASP.NET Core)*
-- **Service status monitor**: a web app that shows whether the services a company depends on are up or down, including incoming and outgoing email servers, Microsoft services like Teams and Outlook, and the company's own servers. Services and check intervals are set in a config file. *(C#, ASP.NET Core)*
-- **Internal communication platform**: announcements, updates and chat for one company. *(ASP.NET Core)*
-- **Collaborative internal application**: syncs updates across connected users. *(SignalR, SQL Server)*
-- **Automated operations summary**: automates Excel-based reports. *(C#, WPF, OpenXML)*
-- **Internal application gateway**: one entry point that routes to every internal web app. *(ASP.NET Core, YARP)*
+january 2025. i start making software for a company. internal stuff. c#, .net.
 
-## Technical skills
+## now. still going.
 
-**Web:** PHP, ASP.NET Core, HTML, CSS, JavaScript. **Desktop:** C#, .NET, WPF, XAML, VB.NET. **Data:** SQL Server, SQL, SignalR. **Tools:** Git, Excel and VBA.
+### things i know
 
-## External links
+c#, .net, wpf, xaml, vb.net, asp.net core, php, javascript, html, css, sql server, signalr, git, excel and vba.
 
-- [Portfolio](https://raffy-off-port.vercel.app/)
-- [Email Raffy](mailto:macaindig.ma@gmail.com)
+### the longer version
 
-[^1]: Reportedly.
+there's more on [my website](https://raffy-off-port.vercel.app/). the stuff i left out here is mostly in there.
+
+### that's it
+
+[your.email@example.com](mailto:macaindig.ma@gmail.com)
+
+<details>
+<summary>one more thing</summary>
+
+there is no more thing. i lied.
+
+drink some water.
+
+</details>
