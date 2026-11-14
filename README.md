@@ -8,7 +8,7 @@ the kind where, if it works, nobody notices. which is the goal. it's a weird goa
 
 web apps. desktop apps. the stuff in between. mostly c# and .net, some php.
 
- [say hi](www.linkedin.com/in/mcainalraffy)
+ [say hi](https://www.linkedin.com/in/mcainalraffy/)
 
 ### things i made, i guess
 
