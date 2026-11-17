@@ -35,7 +35,7 @@ web apps. desktop apps. the stuff in between. mostly c# and .net, some php.
 
 <img src="assets/h-more.svg" alt="the longer version" width="100%">
 
-there's more on [portfolio](https://raffy-off-port.vercel.app/). the stuff i left out here is mostly in there.
+there's more on my [portfolio](https://raffy-off-port.vercel.app/). the stuff i left out here is mostly in there.
 
 <img src="assets/h-end.svg" alt="that's it" width="100%">
 
