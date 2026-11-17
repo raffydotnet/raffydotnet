@@ -31,7 +31,7 @@ web apps. desktop apps. the stuff in between. mostly c# and .net, some php.
 
 <img src="assets/h-know.svg" alt="things i know" width="100%">
 
-<img src="assets/know.svg" alt="c#, .net, wpf, xaml, vb.net, asp.net core, razor pages, php, javascript, html, css, sql server, signalr, git, excel and vba" width="100%">
+<img src="assets/know.svg" alt="c#, .net, wpf, xaml, vb.net, asp.net core, php, javascript, html, css, sql server, signalr, git, excel and vba" width="100%">
 
 <img src="assets/h-more.svg" alt="the longer version" width="100%">
 
