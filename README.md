@@ -1,6 +1,6 @@
-<img src="assets/wurtz-banner.svg" alt="raffy. hi. i live in cagayan de oro, in the philippines. i make software for offices." width="100%">
+<img src="assets/raffy-banner.svg" alt="raffy. hi. i live in cagayan de oro, in the philippines. i make software for offices." width="100%">
 
-<a href="mailto:your.email@example.com"><img src="assets/status.svg" alt="i'm looking for a junior .net / wpf job. say hi." width="100%"></a>
+<a href="mailto:macaindig.ma@gmail.com"><img src="assets/status.svg" alt="ideas in mind? say hi." width="100%"></a>
 
 the kind of software where, if it works, nobody notices. which is the goal. it's a weird goal.
 
@@ -35,11 +35,11 @@ web apps. desktop apps. the stuff in between. mostly c# and .net, some php.
 
 <img src="assets/h-more.svg" alt="the longer version" width="100%">
 
-there's more on [my website](https://your-portfolio-url). the stuff i left out here is mostly in there.
+there's more on [portfolio](https://raffy-off-port.vercel.app/). the stuff i left out here is mostly in there.
 
 <img src="assets/h-end.svg" alt="that's it" width="100%">
 
-[your.email@example.com](mailto:your.email@example.com)
+[email me](mailto:macaindig.ma@gmail.com)
 
 <details>
 <summary>one more thing</summary>
