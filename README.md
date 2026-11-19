@@ -1,4 +1,4 @@
-<img src="assets/raffy-banner.svg" alt="raffy. hi. i live in cagayan de oro, in the philippines. i make software for offices." width="100%">
+<a href="https://github.com/raffydotnet/"><img src="assets/raffy-banner.svg" alt="raffy. hi. i live in cagayan de oro, in the philippines. i make software for offices." width="100%"></a>
 
 <a href="mailto:macaindig.ma@gmail.com"><img src="assets/status.svg" alt="ideas in mind? say hi." width="100%"></a>
 
@@ -6,7 +6,7 @@ the kind of software where, if it works, nobody notices. which is the goal. it's
 
 web apps. desktop apps. the stuff in between. mostly c# and .net, some php.
 
-<img src="assets/h-things.svg" alt="things i made, i guess" width="100%">
+<a href="https://github.com/raffydotnet/"><img src="assets/h-things.svg" alt="things i made, i guess" width="100%"></a>
 
 - 🗓️ **a timesheet website.** it works out who worked overnight. overnight is hard, because the date changes in the middle.
 - 🖥️ **a desktop program** that reads attendance from biometric devices and turns it into something a person can use.
@@ -20,7 +20,7 @@ web apps. desktop apps. the stuff in between. mostly c# and .net, some php.
 
 <sub>a lot of these are internal company systems, so i'm keeping the details vague.</sub>
 
-<img src="assets/h-history.svg" alt="the history of me, i guess" width="100%">
+<a href="https://github.com/raffydotnet/"><img src="assets/h-history.svg" alt="the history of me, i guess" width="100%"></a>
 
 | when | what happened |
 |---|---|
@@ -29,15 +29,15 @@ web apps. desktop apps. the stuff in between. mostly c# and .net, some php.
 | **january 2025** | i start making software for a company. internal stuff. c#, .net. |
 | **now** | still going. |
 
-<img src="assets/h-know.svg" alt="things i know" width="100%">
+<a href="https://github.com/raffydotnet/"><img src="assets/h-know.svg" alt="things i know" width="100%"></a>
 
-<img src="assets/know.svg" alt="c#, .net, wpf, xaml, vb.net, asp.net core, php, javascript, html, css, sql server, signalr, git, excel and vba" width="100%">
+<a href="https://github.com/raffydotnet/"><img src="assets/know.svg" alt="c#, .net, wpf, xaml, vb.net, asp.net core, php, javascript, html, css, sql server, signalr, git, excel and vba" width="100%"></a>
 
-<img src="assets/h-more.svg" alt="the longer version" width="100%">
+<a href="https://github.com/raffydotnet/"><img src="assets/h-more.svg" alt="the longer version" width="100%"></a>
 
 there's more on my [portfolio](https://raffy-off-port.vercel.app/). the stuff i left out here is mostly in there.
 
-<img src="assets/h-end.svg" alt="that's it" width="100%">
+<a href="https://github.com/raffydotnet/"><img src="assets/h-end.svg" alt="that's it" width="100%"></a>
 
 [email me](mailto:macaindig.ma@gmail.com)
 
