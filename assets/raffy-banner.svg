@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-label="raffy. hi. i live in cagayan de oro, in the philippines. i make software for offices." xmlns:c2pa="http://c2pa.org/manifest">
 <style>text{font-family:"Times New Roman",Times,serif;fill:#e6edf3}@media (prefers-reduced-motion:no-preference){text{animation:c 24s infinite;animation-delay:0s}}@keyframes c{0%,16%{fill:#e6edf3}17%,33%{fill:#58a6ff}34%,50%{fill:#3fb950}51%,66%{fill:#bc8cff}67%,83%{fill:#f0883e}84%,99%{fill:#f778ba}100%{fill:#e6edf3}}</style>
-<rect width="1200" height="440" fill="#transparent"/>
+<rect width="1200" height="440" fill="#0d1117"/>
 <text x="58" y="190" font-size="176" font-weight="700" letter-spacing="-9">raffy.</text>
 <text x="64" y="250" font-size="28">hi. i live in cagayan de oro, in the philippines.</text>
 <text x="64" y="340" font-size="66" font-weight="700" letter-spacing="-2">i make software for offices.</text>
