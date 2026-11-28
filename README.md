@@ -8,15 +8,15 @@ web apps. desktop apps. the stuff in between. mostly c# and .net, some php.
 
 <a href="https://github.com/raffydotnet/"><img src="assets/h-things.svg" alt="things i made, i guess" width="100%"></a>
 
-- 🗓️ **a timesheet website.** it works out who worked overnight. overnight is hard, because the date changes in the middle.
-- 🖥️ **a desktop program** that reads attendance from biometric devices and turns it into something a person can use.
-- 🚦 **a page that says whether outlook, teams, the email servers and our own servers are up or down.** up or down. that's the whole page.
-- 👀 **a tracker** that notices which websites get visited, and a dashboard to look at them. i'm not going to say which sites.
-- 💬 **a chat and announcements site,** for one company, private.
-- 🔄 **an app where everyone's screen updates at the same time.** spooky.
-- 📊 **a program that fills in the excel reports** so people don't have to. excel did not ask for this.
-- 🚪 **a front door.** one address, and it sends you to the right internal website. like a receptionist, but a program.
-- 🎓 **the first big one:** a school website where students ask for documents, like transcripts. it made things about 40% faster, reportedly. i put the word "reportedly" there on purpose.
+- **a timesheet website.** it works out who worked overnight. overnight is hard, because the date changes in the middle.
+- **a desktop program** that reads attendance from biometric devices and turns it into something a person can use.
+- **a page that says whether outlook, teams, the email servers and our own servers are up or down.** up or down. that's the whole page.
+- **a tracker** that notices which websites get visited, and a dashboard to look at them. i'm not going to say which sites.
+- **a chat and announcements site,** for one company, private.
+- **an app where everyone's screen updates at the same time.** spooky.
+- **a program that fills in the excel reports** so people don't have to. excel did not ask for this.
+- **a front door.** one address, and it sends you to the right internal website. like a receptionist, but a program.
+- **the first big one:** a school website where students ask for documents, like transcripts. it made things about 40% faster, reportedly. i put the word "reportedly" there on purpose.
 
 <sub>a lot of these are internal company systems, so i'm keeping the details vague.</sub>
 
